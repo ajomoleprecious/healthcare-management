@@ -1,0 +1,27 @@
+# Build artifacts
+bin/
+obj/
+
+# Visual Studio related files
+.vs/
+*.user
+
+# Local environment and IDE settings
+*.suo
+*.ncrunch*
+*.cache
+*.log
+*.swp
+
+# Dependency folders (optional, if using package managers)
+node_modules/
+packages/
+
+# Compiled files
+*.dll
+*.exe
+*.pdb
+
+# Application data
+appsettings.Development.json
+secrets.json

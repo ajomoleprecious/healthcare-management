@@ -1,0 +1,75 @@
+﻿# Build results
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider project files
+.idea/
+
+# VS Code settings
+.vscode/
+
+# DotCover
+*.dotCover
+
+# Logs
+*.log
+
+# Uncomment if you have secrets in appsettings files and want to ignore them
+#appsettings.Development.json
+
+# Azure functions settings (if applicable)
+local.settings.json
+
+# Other files
+*.ncrunchproject
+*.localhistory/
+*.sdf
+*.cache
+*.dbmdl
+
+# Entity Framework Core Migrations metadata
+**/Migrations/*Snapshot.cs
+**/Migrations/*Designer.cs
+
+# Tye tooling
+.tye/
+
+# Test results
+TestResults/
+
+# Build directories from tools like msbuild
+[Bb]uild/
+[Ll]og/
+[Dd]ebug/
+[Rr]elease/
+
+# Auto-generated class diagram files
+*.cd
+
+# IIS Express
+.vs/
+*.vspscc
+*.vssscc
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# DotNet CLI
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# NPM packages (if frontend exists)
+node_modules/
+
+# Optional: ignore changelog if not needed
+# CHANGELOG.md
